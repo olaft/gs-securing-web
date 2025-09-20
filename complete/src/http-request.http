@@ -1,0 +1,9 @@
+GET http://127.0.0.1:8080/api/users/olaft
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJvbGFmdCIsInN1YiI6Im9sYWZ0QGNhbGF2by5jb20iLCJpYXQiOjE3NTgzMzc5NzAsImV4cCI6MTc1ODQyNDM3MH0.vbClC0pI421pTYuQA6ue_V-GoaJxZYPftcJhMtwgBKqyfpJpH37D8KQZY5Q881TxTqGc4H53Q6Pqf6tivtLJYQ
+
+{
+    "userName": "olaft"
+}
+
+###
